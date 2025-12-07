@@ -1,4 +1,4 @@
-# Slate7 Tailscale Toggle Mode
+# GL.iNet Slate 7 (GL-BE3600) Tailscale Toggle Mode
 
 This setup adds a **Tailscale** mode to the GL.iNet Slate7.  
 When the toggle button is set to Tailscale, the screen shows `tailscale` and the router enables/disables Tailscale and configures masquerading so LAN traffic can go through a Tailscale exit node.
